@@ -1,6 +1,6 @@
 [
   {
-    "nomor_perkara": "24/Pid.B/2025/PN Tlg Nomor 24/Pid.B/2025/PN Tlg",
+    "nomor_perkara": "24/Pid.B/2025/PN Tlg",
     "tanggal_putusan": "4 Februari 2025",
     "lokasi": "PN Tulungagung",
     "terdakwa": [
@@ -9,10 +9,10 @@
         "umur": "36 Tahun/4 Agustus 1988",
         "tempat_lahir": "Tulungagung",
         "tanggal_lahir": "4 Agustus 1988",
-        "jenis_kelamin": "Laki -laki",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Wiraswasta Terdakwa Ahmad Nurudin bin Mukidi ditahan dalam perkara lain;",
+        "pekerjaan": "Wiraswasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -61,16 +61,16 @@
         "umur": "",
         "tempat_lahir": "Tuban.",
         "tanggal_lahir": "",
-        "jenis_kelamin": "Laki-laki Kebangsaan: Indonesia Tempat tinggal: Dsn.Bogor Rt. 05 Rw.09 Desa Bektiharjo Kecamatan Semanding Kabupaten Tuban. A g a m a: Islam Pekerjaan: Swasta Terdakwa telah ditahan sejak tanggal : -Penyidik : 11 Agustus 2018 s/d 30 Agustus 2018 ;",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "",
-        "pekerjaan": "Swasta Terdakwa telah ditahan sejak tanggal : -Penyidik : 11 Agustus 2018 s/d 30 Agustus 2018 ;",
+        "pekerjaan": "Swasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn.Bogor Rt. 05 Rw.09 Desa Bektiharjo Kecamatan Semanding Kabupaten Tuban. A g a m a: Islam Pekerjaan: Swasta Terdakwa telah ditahan sejak tanggal : -Penyidik : 11 Agustus 2018 s/d 30 Agustus 2018 ;"
+          "alamat_lengkap": "Dsn. Bogor RT 05 RW 09 Desa Bektiharjo Kecamatan Semanding Kabupaten Tuban"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -116,7 +116,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Katolik",
-        "pekerjaan": "Wiraswasta Terdakwa ditangkap sejak tanggal 08 Agustus 2024 berdasarkan Surat Perintah Penangkapan Nomor Sprin-Kap/19/VIII/2024/Reskrim Terdakwa Hendra Wijaya ditahan dalam tahanan penyidik oleh:",
+        "pekerjaan": "Wiraswasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -174,7 +174,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn. Clumpring Rt. 14 / Rw. 05, Ds."
+          "alamat_lengkap": ""
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -213,20 +213,47 @@
     "lokasi": "PN Tuban ,",
     "terdakwa": [
       {
-        "nama": "MUJIONO bin SUTRISNO (Alm.) Tempat lahir :Tuban Umur / Tanggal lahir : 66 Tahun / 01 Juli 1951 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :",
-        "umur": "",
-        "tempat_lahir": "Tuban Umur / Tanggal lahir : 66 Tahun / 01 Juli 1951 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :",
-        "tanggal_lahir": "",
-        "jenis_kelamin": "Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :",
+        "nama": "MUJIONO bin SUTRISNO (Alm.)",
+        "umur": "66 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "01 Juli 1951",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
-        "agama": "Islam Pekerjaan :Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :",
-        "pekerjaan": "Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :",
+        "agama": "Islam",
+        "pekerjaan": "Sopir",
         "alamat": {
-          "kelurahan": "",
-          "kecamatan": "",
-          "kabupaten": "",
-          "kota": "",
-          "alamat_lengkap": "Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan :SD (tidak tamat) II.Nama lengkap :GAGUK BUDIHARTO bin DASMONO Tempat lahir :Tuban Umur / Tanggal lahir : 27 Tahun / 30 Juni 1990 Jenis kelamin :Laki-laki Kewarganegaraan :Indonesia Tempat tinggal :Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban Agama :Islam Pekerjaan :Sopir Pendidikan : SMA Para Terdakwa telah ditahanan berdasarkan Surat Perintah / Penetapan Penahanan sejak tanggal :"
+          "kelurahan": "Gedongombo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding Kab. Tuban"
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      },
+      {
+        "nama": "GAGUK BUDIHARTO bin DASMONO",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "30 Juni 1990",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Sopir",
+        "alamat": {
+          "kelurahan": "Gedongombo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding Kab. Tuban"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -264,7 +291,33 @@
     "tanggal_putusan": "11 Oktober 2020",
     "lokasi": "PN Trenggalek",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -286,7 +339,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "1/6 yang ada di bleberan, kemudian bandar menguncang dadu dan ditutup dengan tempung, apabila nomor yang dipasang sama dengan nomor dadu yang keluar maka dia menang dan mendapatkan uang dari bandar namun apabila nomor yang keluar tidak sesuai dengan nomor yang di pasang maka uang tombokan menjadi milik bandar;",
+    "nomor_perkara": "",
     "tanggal_putusan": "12 Januari 2017",
     "lokasi": "PN Tuban",
     "terdakwa": [
@@ -295,16 +348,16 @@
         "umur": "68 Tahun / 05 Februari 1949 Jenis kelamin : Laki - Laki Kebangsaan : Indonesia Tempat tinggal : Dsn.Mundri Rt.01. Rw. 06. Ds. Sidodadi, Kec. Bangilan Kab. Tuban Agama : Islam Pekerjaan : Petani Terdakwa ditahan dalam tahanan Rutan oleh :",
         "tempat_lahir": "Tuban Umur/Tanggal lahir : 68 Tahun / 05 Februari 1949 Jenis kelamin : Laki - Laki Kebangsaan : Indonesia Tempat tinggal : Dsn.Mundri Rt.01. Rw. 06. Ds. Sidodadi, Kec. Bangilan Kab. Tuban Agama : Islam Pekerjaan : Petani Terdakwa ditahan dalam tahanan Rutan oleh :",
         "tanggal_lahir": "05 Februari 1949",
-        "jenis_kelamin": "Laki - Laki Kebangsaan : Indonesia Tempat tinggal : Dsn.Mundri Rt.01. Rw. 06. Ds. Sidodadi, Kec. Bangilan Kab. Tuban Agama : Islam Pekerjaan : Petani Terdakwa ditahan dalam tahanan Rutan oleh :",
+        "jenis_kelamin": "Laki - Laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam Pekerjaan : Petani Terdakwa ditahan dalam tahanan Rutan oleh :",
-        "pekerjaan": "Petani Terdakwa ditahan dalam tahanan Rutan oleh :",
+        "pekerjaan": "Petani",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn.Mundri Rt.01. Rw. 06. Ds. Sidodadi, Kec. Bangilan Kab. Tuban Agama : Islam Pekerjaan : Petani Terdakwa ditahan dalam tahanan Rutan oleh :"
+          "alamat_lengkap": "Dsn.Mundri Rt.01. Rw. 06. Ds. Sidodadi, Kec. Bangilan Kab. Tuban"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -338,7 +391,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "57/Pid.B/2018/PN.TBN tanggal 20 Februari 2018 tentang penunjukan Majelis Hakim;",
+    "nomor_perkara": "",
     "tanggal_putusan": "11 Desember 2017",
     "lokasi": "PN Tuban",
     "terdakwa": [
@@ -356,7 +409,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn Grenjeng Desa Sumberrejo RT 02 RW 02 Kec. Widang Kab. Tuban Agama : Islam ;"
+          "alamat_lengkap": "Dsn Grenjeng Desa Sumberrejo RT 02 RW 02 Kec. Widang Kab. Tuban"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -446,7 +499,33 @@
     "tanggal_putusan": "20 Januari 2018",
     "lokasi": "PN Tuban",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -685,7 +764,7 @@
         "umur": "24 Tahun/ 16 April 1997;",
         "tempat_lahir": "Jombang;",
         "tanggal_lahir": "16 April 1997",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Swasta ;",
@@ -836,7 +915,33 @@
     "tanggal_putusan": "26 Januari 2024",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -917,7 +1022,7 @@
       {
         "nama": "Muhammad Nur bin Alm M.Ali ;",
         "umur": "58 Tahun/10 April 1963 ;",
-        "tempat_lahir": "bin ai ;",
+        "tempat_lahir": "Binjai",
         "tanggal_lahir": "10 April 1963",
         "jenis_kelamin": "Laki-laki ;",
         "kebangsaan": "Indonesia",
@@ -928,7 +1033,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Jl. Anggrek No. 81 LK. IV Rt. 000 Rw. 000 Ds. Pahlawan Kec. bin ai Utara Kota bin ai Sumatera Utara / Tinggal di Dsn. Swaru Ds. Damarwulan Kec. Kepuh Kab. Kediri ;"
+          "alamat_lengkap": "Jl. Anggrek No. 81 LK. IV RT. 000 RW. 000 Ds. Pahlawan Kec. Binjai Utara Kota Binjai Sumatera Utara / Tinggal di Dsn. Swaru Ds. Damarwulan Kec. Kepuh Kab. Kediri"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -1018,7 +1123,33 @@
     "tanggal_putusan": "27 September 1986",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -1153,7 +1284,7 @@
         "umur": "45 tahun /5 Februari 1977 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "5 Februari 1977",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam ;",
         "pekerjaan": "swasta ;",
@@ -1621,7 +1752,7 @@
         "umur": "18 Tahun / 7 September 2005 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "7 September 2005",
-        "jenis_kelamin": "Laki -laki",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Serabutan ;",
@@ -1673,7 +1804,7 @@
         "umur": "37 Tahun / 17 Agustus 1986 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "17 Agustus 1986",
-        "jenis_kelamin": "Laki -laki",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Karyawan Swasta ;",
@@ -1768,7 +1899,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "56/Pid.B/2024/ PN Jbg tanggal 06 Maret 2024 tentang penunjukan Majelis Hakim;",
+    "nomor_perkara": "",
     "tanggal_putusan": "24 November 2023",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -1777,7 +1908,7 @@
         "umur": "28 tahun / 21 November 1995 Jenis Kelamin :Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat Tinggal :Dsn.Pojok Kulon RT/RW : 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang A g a m a :Islam Pekerjaan :Petani / Pekebun",
         "tempat_lahir": "Jombang Umur/tanggal lahir :28 tahun / 21 November 1995 Jenis Kelamin :Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat Tinggal :Dsn.Pojok Kulon RT/RW : 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang A g a m a :Islam Pekerjaan :Petani / Pekebun",
         "tanggal_lahir": "21 November 1995",
-        "jenis_kelamin": "Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat Tinggal :Dsn.Pojok Kulon RT/RW : 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang A g a m a :Islam Pekerjaan :Petani / Pekebun",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "",
         "pekerjaan": "Petani / Pekebun",
@@ -1786,7 +1917,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn.Pojok Kulon RT/RW : 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang A g a m a :Islam Pekerjaan :Petani / Pekebun"
+          "alamat_lengkap": "Dsn.Pojok Kulon RT/RW : 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang A g a m a :Islam"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -1820,7 +1951,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "148/Pid.Sus/2021/PN.Jbg Nomor 148 / Pid.Sus / 2021 / PN.Jbg",
+    "nomor_perkara": "148/Pid.Sus/2021/PN.Jbg",
     "tanggal_putusan": "09 Januari 2021",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -1829,10 +1960,10 @@
         "umur": "21 Tahun / 19 Maret 2000",
         "tempat_lahir": "Jombang",
         "tanggal_lahir": "19 Maret 2000",
-        "jenis_kelamin": "Laki -laki",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Kuli Bangunan Terdakwa SURYA PRATAMA BIN SUGIANTO ditangkap pada tanggal 09 Januari 2021 Terdakwa SURYA PRATAMA BIN SUGIANTO ditahan dalam tahanan rutan oleh:",
+        "pekerjaan": "Kuli Bangunan",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -1872,7 +2003,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "141/Pid.B/2021/PN Jbg Halaman 1 P U T U S A N Nomor 141/Pid.B/2021/PN Jbg.",
+    "nomor_perkara": "",
     "tanggal_putusan": "31 Januari 2021",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -2111,7 +2242,33 @@
     "tanggal_putusan": "22 Agustus 2022",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -2133,7 +2290,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "261/Pid.B/2023/PN Jbg, tanggal 02 Agustus 2023 tentang Penunjukan Majelis Hakim; -Penetapan Majelis Hakim Nomor 261/Pid.B/2023/PN Jbg, tanggal 02 Agustus 2023 tentang penetapan hari sidang;",
+    "nomor_perkara": "",
     "tanggal_putusan": "28 Maret 2023",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -2246,7 +2403,7 @@
         "umur": "45 Tahun / 05 Agustus 1978 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "05 Agustus 1978",
-        "jenis_kelamin": "Laki -laki",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Karyawan Swasta ;",
@@ -2301,7 +2458,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Swasta Terdakwa Mulyadi bin Suwito Rejo ditahan dalam tahanan rutan oleh:",
+        "pekerjaan": "Swasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -2386,7 +2543,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Jl. Nolo Rt/Rw. 05/01 Ds. pe nggaron Kec. Mojowarno , Kab. Jombang ;"
+          "alamat_lengkap": "Jl. Nolo Rt/Rw. 05/01 Ds. penggaron Kec. Mojowarno , Kab. Jombang ;"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -2542,7 +2699,7 @@
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Total persada Raya Blok E 1 No. 40 Rt.06 Rw. 07 Kel/Ds. Gembor Kec.Periuk Kota Tangeran Provinsi Banten / Dsn. Sanan selatan Ds."
+          "alamat_lengkap": "Total persada Raya Blok E 1 No. 40 Rt.06 Rw. 07 Kel/Ds. Gembor Kec.Periuk Kota Tangerang Provinsi Banten / Dsn. Sanan selatan Ds."
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -2628,7 +2785,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "69/Pid.B/2025/PN Jbg tanggal 17 Maret 2025 tentang penunjukan Majelis Hakim; -Penetapan Majelis Hakim Nomor 69/Pid.B/2025/PN Jbg tanggal 17 Maret 2025 tentang penetapan hari sidang;",
+    "nomor_perkara": "",
     "tanggal_putusan": "11 Januari 2025",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -2637,7 +2794,7 @@
         "umur": "38 Tahun / 21 April 1986;",
         "tempat_lahir": "Bantul;",
         "tanggal_lahir": "21 April 1986",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Karyawan Swasta;",
@@ -2680,7 +2837,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "539/Pid.B /2022 /PN.Jbg, tertanggal 11 Nopember 2022 , tentang penunjukan Majelis Hakim ;",
+    "nomor_perkara": "",
     "tanggal_putusan": "21 Agustus 2022",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -2689,16 +2846,16 @@
         "umur": "45 Tahun / 10 Mei 1977 Jenis kelamin : Perempuan Kebangsaan/ Kewarganegaraan : Indonesia Tempat tinggal : Dsn. Mlaten , RT.012, RW.006, Ds. Pulogedong, Kecamatan Tambelang , Kabupaten . Jombang A g a m a : Islam Pekerjaan : Pegawai Neger Spil Terdakwa ENIK ISMIYATI N BINTI ISCHAK ditahan d alam tahanan Rutan Jombang oleh:",
         "tempat_lahir": "Jombang;",
         "tanggal_lahir": "10 Mei 1977",
-        "jenis_kelamin": "Perempuan Kebangsaan/ Kewarganegaraan : Indonesia Tempat tinggal : Dsn. Mlaten , RT.012, RW.006, Ds. Pulogedong, Kecamatan Tambelang , Kabupaten . Jombang A g a m a : Islam Pekerjaan : Pegawai Neger Spil Terdakwa ENIK ISMIYATI N BINTI ISCHAK ditahan d alam tahanan Rutan Jombang oleh:",
+        "jenis_kelamin": "Perempuan",
         "kebangsaan": "Indonesia",
         "agama": "",
-        "pekerjaan": "Pegawai Neger Spil Terdakwa ENIK ISMIYATI N BINTI ISCHAK ditahan d alam tahanan Rutan Jombang oleh:",
+        "pekerjaan": "Pegawai Neger Spil",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn. Mlaten , RT.012, RW.006, Ds. Pulogedong, Kecamatan Tambelang , Kabupaten . Jombang A g a m a : Islam Pekerjaan : Pegawai Neger Spil Terdakwa ENIK ISMIYATI N BINTI ISCHAK ditahan d alam tahanan Rutan Jombang oleh:"
+          "alamat_lengkap": "Dsn. Mlaten , RT.012, RW.006, Ds. Pulogedong, Kecamatan Tambelang , Kabupaten . Jombang A g a m a : Islam"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -2848,13 +3005,13 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Wiraswasta Terdakwa Moch Amari Alias Feri bin Nur Salim ditahan oleh:",
+        "pekerjaan": "Wiraswasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn. Tengaran Rt/Rw. 006/002 Ds. Tengaran Kec."
+          "alamat_lengkap": "Dsn. Tengaran Rt/Rw. 006/002 Ds. Tengaran"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -3004,7 +3161,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Belum / Tidak Bekerja Terdakwa II",
+        "pekerjaan": "Belum / Tidak Bekerja",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -3053,7 +3210,7 @@
         "umur": "33 Tahun / 16 Juni 1991 Jenis kelamin :Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat tinggal : Dsn Pandan , RT/01, RW 2 , Ds Canggu, Kecamatan Badas , Kabupaten Kediri;",
         "tempat_lahir": "Kediri Umur/tanggal lahir :33 Tahun / 16 Juni 1991 Jenis kelamin :Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat tinggal : Dsn Pandan , RT/01, RW 2 , Ds Canggu, Kecamatan Badas , Kabupaten Kediri;",
         "tanggal_lahir": "16 Juni 1991",
-        "jenis_kelamin": "Laki-laki Kebangsaan/ Kewarganegaraan :Indonesia Tempat tinggal : Dsn Pandan , RT/01, RW 2 , Ds Canggu, Kecamatan Badas , Kabupaten Kediri;",
+        "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "",
         "pekerjaan": "Pedagang / Anggota Lembaga Tinggi Lainnya;",
@@ -3252,7 +3409,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "151/Pid.Sus/2021/PN Jbg tanggal 22 April 2021 tentang penunjukan Majelis Hakim;",
+    "nomor_perkara": "",
     "tanggal_putusan": "27 Februari 2021",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -3264,7 +3421,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Swasta Terdakwa LUKMAN HAKIM BIN YONO ditangkap pada tanggal 27 Februari 2021 Terdakwa LUKMAN HAKIM BIN YONO ditahan dalam tahanan rutan oleh:",
+        "pekerjaan": "Swasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -3412,7 +3569,33 @@
     "tanggal_putusan": "1 Oktober 2022",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -3602,13 +3785,13 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Karyawan swasta Terdakwa ditangkap tanggal 11 September 2024 dan ditahan dalam tahanan rutan oleh:",
+        "pekerjaan": "Karyawan swasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
           "kabupaten": "",
           "kota": "",
-          "alamat_lengkap": "Dsn. Bacem, Rt./Rw: 021/007, Ds. Bening, Kec."
+          "alamat_lengkap": "Dsn. Bacem, Rt./Rw: 021/007, Ds. Bening,"
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -3642,7 +3825,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "594/Pid.B/2022/PN.Jbg, tertanggal 8 Desember 2022, tentang penunjukan Majelis Hakim ;",
+    "nomor_perkara": "",
     "tanggal_putusan": "26 September 2022",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -3694,7 +3877,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "73/Pid.B/2024/ PN Jbg tanggal 19 Maret 2025 tentang penunjukan Majelis Hakim;",
+    "nomor_perkara": "",
     "tanggal_putusan": "7 Januari 2025",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -3750,7 +3933,33 @@
     "tanggal_putusan": "24 Mei 2023",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -3824,7 +4033,7 @@
     "url": ""
   },
   {
-    "nomor_perkara": "132/Pid.B/ 2024/PN Jbg tanggal 21 Juni 2024 tentang penunjukan Majelis Hakim;",
+    "nomor_perkara": "",
     "tanggal_putusan": "26 Maret 2024",
     "lokasi": "PN Jombang",
     "terdakwa": [
@@ -3833,7 +4042,7 @@
         "umur": "43 Tahun / 3 Januari 1981 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "3 Januari 1981",
-        "jenis_kelamin": "Laki -laki ;",
+        "jenis_kelamin": "Laki-laki ;",
         "kebangsaan": "Indonesia",
         "agama": "Islam ;",
         "pekerjaan": "Karyawan Swasta ;",
@@ -4036,7 +4245,33 @@
     "tanggal_putusan": "30 Januari 2021",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -4067,7 +4302,7 @@
         "umur": "43 tahun / 18 Maret 1980 ;",
         "tempat_lahir": "Mojokerto ;",
         "tanggal_lahir": "18 Maret 1980",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam ;",
         "pekerjaan": "Kuli Bangunan ;",
@@ -4171,7 +4406,7 @@
         "umur": "64 Tahun / 20 Desember 1957 ;",
         "tempat_lahir": "Jombang ;",
         "tanggal_lahir": "20 Desember 1957",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Pekerjaan Lainnya ;",
@@ -4270,7 +4505,33 @@
     "tanggal_putusan": "18 Januari 2024",
     "lokasi": "PN Jombang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -4301,7 +4562,7 @@
         "umur": "29 tahun /11 Agustus 1993 ;",
         "tempat_lahir": "Ponorogo ;",
         "tanggal_lahir": "11 Agustus 1993",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Swasta ;",
@@ -4353,7 +4614,7 @@
         "umur": "26 tahun /16 April 1996 ;",
         "tempat_lahir": "Sampang ;",
         "tanggal_lahir": "16 April 1996",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Swasta ;",
@@ -4408,7 +4669,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "Wiraswasta Terdakwa ditangkap tanggal 25 Agustus 2024;",
+        "pekerjaan": "Wiraswasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -4457,7 +4718,7 @@
         "umur": "29 tahun /27 Desember 1992 ;",
         "tempat_lahir": "Sampang ;",
         "tanggal_lahir": "27 Desember 1992",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Swasta ;",
@@ -4665,7 +4926,7 @@
         "umur": "48 tahun /12 Februari 1975 ;",
         "tempat_lahir": "Sampang ;",
         "tanggal_lahir": "12 Februari 1975",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Wiraswasta ;",
@@ -4717,7 +4978,7 @@
         "umur": "24 tahun /13 Desember 1998 ;",
         "tempat_lahir": "Sampang ;",
         "tanggal_lahir": "13 Desember 1998",
-        "jenis_kelamin": "Laki -laki;",
+        "jenis_kelamin": "Laki-laki;",
         "kebangsaan": "Indonesia",
         "agama": "Islam;",
         "pekerjaan": "Wiraswasta ;",
@@ -4868,7 +5129,33 @@
     "tanggal_putusan": "18 Maret 2020",
     "lokasi": "PN Sampang",
     "terdakwa": [
-      {}
+      {
+        "nama": "",
+        "umur": "",
+        "tempat_lahir": "",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "",
+        "kebangsaan": "Indonesia",
+        "agama": "",
+        "pekerjaan": "",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "",
+          "kabupaten": "",
+          "kota": "",
+          "alamat_lengkap": ""
+        },
+        "tuntutan_pidana": [],
+        "tuntutan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        },
+        "putusan_pidana": "",
+        "putusan_hukuman": {
+          "jenis": "",
+          "lama": ""
+        }
+      }
     ],
     "hakim": [
       {
@@ -4902,7 +5189,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "8. Pekerjaan : Swasta Terdakwa Yadi bin Miskawi ditahan dalam tahanan rutan oleh:",
-        "pekerjaan": "Swasta Terdakwa Yadi bin Miskawi ditahan dalam tahanan rutan oleh:",
+        "pekerjaan": "Swasta",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
