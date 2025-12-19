@@ -1346,7 +1346,7 @@
       {
         "nama": "Muhammad Nur bin Alm M.Ali",
         "umur": "58 Tahun",
-        "tempat_lahir": "",
+        "tempat_lahir": "bin ai ;",
         "tanggal_lahir": "10 April 1963",
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
@@ -2827,33 +2827,6 @@
           "jenis": "",
           "lama": ""
         }
-      },
-      {
-        "nama": "",
-        "umur": "",
-        "tempat_lahir": "",
-        "tanggal_lahir": "",
-        "jenis_kelamin": "",
-        "kebangsaan": "Indonesia",
-        "agama": "",
-        "pekerjaan": "",
-        "alamat": {
-          "kelurahan": "",
-          "kecamatan": "",
-          "kabupaten": "",
-          "kota": "",
-          "alamat_lengkap": ""
-        },
-        "tuntutan_pidana": [],
-        "tuntutan_hukuman": {
-          "jenis": "",
-          "lama": ""
-        },
-        "putusan_pidana": "",
-        "putusan_hukuman": {
-          "jenis": "",
-          "lama": ""
-        }
       }
     ],
     "hakim": [
@@ -2881,7 +2854,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "YONO bin SUTOMO",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -3097,33 +3070,6 @@
           "kabupaten": "",
           "kota": "",
           "alamat_lengkap": "Bungurasih Timur Rt. 14/ Rw 01 Kec.Waru Kab.Sidoarjo"
-        },
-        "tuntutan_pidana": [],
-        "tuntutan_hukuman": {
-          "jenis": "",
-          "lama": ""
-        },
-        "putusan_pidana": "",
-        "putusan_hukuman": {
-          "jenis": "",
-          "lama": ""
-        }
-      },
-      {
-        "nama": "",
-        "umur": "",
-        "tempat_lahir": "",
-        "tanggal_lahir": "",
-        "jenis_kelamin": "",
-        "kebangsaan": "Indonesia",
-        "agama": "",
-        "pekerjaan": "",
-        "alamat": {
-          "kelurahan": "",
-          "kecamatan": "",
-          "kabupaten": "",
-          "kota": "",
-          "alamat_lengkap": ""
         },
         "tuntutan_pidana": [],
         "tuntutan_hukuman": {
@@ -4202,7 +4148,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "SUHARTONO ALS KELET BIN SUYONO",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -4456,7 +4402,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "FENDI WIDIARTO BIN PONDI",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -4560,7 +4506,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "Soni Darwanto Alias Gimbal bin Jadu",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -4866,7 +4812,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "MUHAMMAD LUTFIYANTO Bin SUPARNI",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -5023,7 +4969,7 @@
         "jenis_kelamin": "Laki-laki",
         "kebangsaan": "Indonesia",
         "agama": "Islam",
-        "pekerjaan": "",
+        "pekerjaan": "Pekerjaan Lainnya ;",
         "alamat": {
           "kelurahan": "",
           "kecamatan": "",
@@ -5120,7 +5066,7 @@
     "lokasi": "PN Jombang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "Sudarsono bin Abd Rocim",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
@@ -5738,7 +5684,7 @@
     "lokasi": "PN Sampang",
     "terdakwa": [
       {
-        "nama": "",
+        "nama": "ANDRE HIDAYAT BIN P. PATRAH",
         "umur": "",
         "tempat_lahir": "",
         "tanggal_lahir": "",
