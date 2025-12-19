@@ -1,0 +1,185 @@
+[
+  {
+    "nomor_perkara": "24/Pid.B/2025/PN Tlg",
+    "tanggal_putusan": "7 Maret 2025",
+    "lokasi": "PN Tulungagung",
+    "terdakwa": [
+      {
+        "nama": "Ahmad Nurudin bin Mukidi",
+        "umur": "36 Tahun",
+        "tempat_lahir": "Tulungagung",
+        "tanggal_lahir": "4 Agustus 1988",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Dukuh",
+          "kecamatan": "Gondang",
+          "kabupaten": "Tulungagung",
+          "kota": "Tulungagung",
+          "alamat_lengkap": "Dusun Jalas RT 002 RW 005 Desa Dukuh Kecamatan Gondang Kabupaten Tulungagung"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "362",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 tahun"
+        },
+        "putusan_pidana": "Pencurian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Y. Erstanto Windiolelono, S.H., M.Hum.",
+        "anggota": [
+          {
+            "nama": "Anak Agung Gde Oka Mahardika, S.H."
+          },
+          {
+            "nama": "Eri Sutanto, S.H."
+          }
+        ]
+      }
+    ],
+    "panitera": "Sutiawan, S.H.",
+    "penuntut_umum": "Devika Beliani, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "pn-tulungagung/txt/zaf003c8e62e5f46a303313431363233.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "342/Pid.B/2018/PN TBN",
+    "tanggal_putusan": "08 November 2018",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "Kadir bin Lamso",
+        "umur": "55 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Bektiharjo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Dsn. Bogor RT 05 RW 09 Desa Bektiharjo Kecamatan Semanding Kabupaten Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303",
+            "nomor": "",
+            "ayat": "(1)",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Perjudian plaseran"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Menawarkan kesempatan bermain judi",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Donovan Akbar Kusumo Bhuwono, S.H., M.H.",
+        "anggota": [
+          {
+            "nama": "ERSLAN ABDILLAH, S.H."
+          },
+          {
+            "nama": "Kiki Yuristian, S.H., M.H."
+          }
+        ]
+      }
+    ],
+    "panitera": "Joko Purnomo, S.H.",
+    "penuntut_umum": "Ferdinan Cahyadi, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "pn-tuban/txt/zaef2e1b779a0676be5a313630383137.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "503/Pid.B/2024/PN Jmr",
+    "tanggal_putusan": "11 November 2024",
+    "lokasi": "PN Jember",
+    "terdakwa": [
+      {
+        "nama": "Hendra Wijaya",
+        "umur": "35 Tahun",
+        "tempat_lahir": "Jember",
+        "tanggal_lahir": "10 Mei 1989",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Katolik",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Jember Kidul",
+          "kecamatan": "Kaliwates",
+          "kabupaten": "Jember",
+          "kota": "Jember",
+          "alamat_lengkap": "Jl. Sunan Giri 17 RT 03 RW 02 Kel. Jember Kidul Kec. Kaliwates Kab. Jember"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "378",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penipuan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        },
+        "putusan_pidana": "Penipuan dalam pengalihan kredit mobil",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 tahun"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Dina Pelita Asmara, S.H., M.H.",
+        "anggota": [
+          {
+            "nama": "Desbertua Naibaho, S.H., M.H."
+          },
+          {
+            "nama": "Irwansyah, S.H., M.H."
+          }
+        ]
+      }
+    ],
+    "panitera": "Siti Aliyatul Mubarokatih, S.H.",
+    "penuntut_umum": "Apriani Candra Christina, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "pn-jember/txt/zaefa6447a926f4899f1313430343131.txt",
+    "url": ""
+  }
+]
