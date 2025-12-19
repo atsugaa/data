@@ -35,4 +35,4 @@ Data ini dapat digunakan untuk:
 
 ## 📖 Dokumentasi Lengkap
 
-Lihat file [REPOSITORY_OVERVIEW.md](REPOSITORY_OVERVIEW.md) untuk informasi detail tentang struktur data dan isi repositori 
+Lihat file [REPOSITORY_OVERVIEW.md](REPOSITORY_OVERVIEW.md) untuk informasi detail tentang struktur data dan isi repositori. 
