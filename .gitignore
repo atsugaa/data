@@ -1,0 +1,15 @@
+# Backup files
+*.backup
+*.bak
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary list files
+list.txt.with_failed
