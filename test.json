@@ -1,0 +1,100 @@
+{
+    "nomor_perkara": "xx/Pid.x/xxxx/PN xxx",
+    "tanggal_putusan": "2 Mei 2024",
+    "lokasi": "PN Bekasi",
+    "terdakwa": [
+        {
+            "nama": "xxxx xxxx bin xxxx",
+            "umur": "xx",
+            "tempat_lahir": "xxxxx",
+            "tanggal_lahir": "2 Mei 2000",
+            "jenis_kelamin": "laki-laki",
+            "kebangsaan": "Indonesia",
+            "agama": "xxxx",
+            "pekerjaan": "xxxx",
+            "alamat": {
+                "kelurahan": "xxxx",
+                "kecamatan": "xxxx",
+                "kabupaten": "xxxx",
+                "kota": "xxxx",
+                "alamat_lengkap": "xxxx"
+            },
+            "tuntutan_pidana": [
+                {
+                    "pasal": "xxx",
+                    "ayat": "x",
+                    "tindak_pidana": "xxxxx"
+                },
+                {
+                    "pasal": "xxx",
+                    "ayat": "x",
+                    "tindak_pidana": "xxxxx"
+                }
+            ],
+            "tuntutan_hukuman": {
+                "jenis": "penjara",
+                "lama": "1 tahun"
+            },
+            "putusan_pidana": "xxxxx",
+            "putusan_hukuman": {
+                "jenis": "penjara",
+                "lama": "8 bulan"
+            }
+        },
+        {
+            "nama": "xxxx xxxx bin xxxx",
+            "umur": "xx",
+            "tempat_lahir": "xxxxx",
+            "tanggal_lahir": "2 Mei 2000",
+            "jenis_kelamin": "laki-laki",
+            "kebangsaan": "Indonesia",
+            "agama": "xxxx",
+            "pekerjaan": "xxxx",
+            "alamat": {
+                "kelurahan": "xxxx",
+                "kecamatan": "xxxx",
+                "kabupaten": "xxxx",
+                "kota": "xxxx",
+                "alamat_lengkap": "xxxx"
+            },
+            "tuntutan_pidana": [
+                {
+                    "pasal": "xxx",
+                    "ayat": "x",
+                    "tindak_pidana": "xxxxx"
+                },
+                {
+                    "pasal": "xxx",
+                    "ayat": "x",
+                    "tindak_pidana": "xxxxx"
+                }
+            ],
+            "tuntutan_hukuman": {
+                "jenis": "penjara",
+                "lama": "1 tahun"
+            },
+            "putusan_pidana": "xxxxx",
+            "putusan_hukuman": {
+                "jenis": "penjara",
+                "lama": "8 bulan"
+            }
+        }
+    ],
+    "hakim":[
+        {
+            "ketua": "xxxxx",
+            "anggota" : [
+                {
+                    "nama": "xxxx"
+                },
+                {
+                    "nama": "xxxx"
+                }
+            ]
+        }
+    ],
+    "panitera": "xxxxx",
+    "penuntut_umum": "xxxx",
+    "nama_file": "xxxxx",
+    "url": "xxxxx"
+}
