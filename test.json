@@ -1,100 +1,2656 @@
-{
-    "nomor_perkara": "xx/Pid.x/xxxx/PN xxx",
-    "tanggal_putusan": "2 Mei 2024",
-    "lokasi": "PN Bekasi",
+[
+  {
+    "nomor_perkara": "24/Pid.B/2025/PN Tlg",
+    "tanggal_putusan": "7 Maret 2025",
+    "lokasi": "PN Tulungagung",
     "terdakwa": [
-        {
-            "nama": "xxxx xxxx bin xxxx",
-            "umur": "xx",
-            "tempat_lahir": "xxxxx",
-            "tanggal_lahir": "2 Mei 2000",
-            "jenis_kelamin": "laki-laki",
-            "kebangsaan": "Indonesia",
-            "agama": "xxxx",
-            "pekerjaan": "xxxx",
-            "alamat": {
-                "kelurahan": "xxxx",
-                "kecamatan": "xxxx",
-                "kabupaten": "xxxx",
-                "kota": "xxxx",
-                "alamat_lengkap": "xxxx"
-            },
-            "tuntutan_pidana": [
-                {
-                    "pasal": "xxx",
-                    "ayat": "x",
-                    "tindak_pidana": "xxxxx"
-                },
-                {
-                    "pasal": "xxx",
-                    "ayat": "x",
-                    "tindak_pidana": "xxxxx"
-                }
-            ],
-            "tuntutan_hukuman": {
-                "jenis": "penjara",
-                "lama": "1 tahun"
-            },
-            "putusan_pidana": "xxxxx",
-            "putusan_hukuman": {
-                "jenis": "penjara",
-                "lama": "8 bulan"
-            }
+      {
+        "nama": "Ahmad Nurudin bin Mukidi",
+        "umur": "36 Tahun",
+        "tempat_lahir": "Tulungagung",
+        "tanggal_lahir": "4 Agustus 1988",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Dukuh",
+          "kecamatan": "Gondang",
+          "kabupaten": "Tulungagung",
+          "kota": "Tulungagung",
+          "alamat_lengkap": "Dusun Jalas RT 002 RW 005 Desa Dukuh Kecamatan Gondang Kabupaten Tulungagung"
         },
+        "tuntutan_pidana": [
+          {
+            "pasal": "362",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 tahun"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan pencurian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Y. Erstanto Windiolelono, S.H., M.Hum.",
+        "anggota": [
+          {
+            "nama": "Anak Agung Gde Oka Mahardika, S.H."
+          },
+          {
+            "nama": "Eri Sutanto, S.H."
+          }
+        ]
+      }
+    ],
+    "panitera": "Sutiawan, S.H.",
+    "penuntut_umum": "Devika Beliani, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tulungagung/txt/zaf003c8e62e5f46a303313431363233.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "342/Pid.B/2018/PN TBN",
+    "tanggal_putusan": "08 November 2018",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "Kadir bin Lamso",
+        "umur": "55 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Bektiharjo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Dsn.Bogor Rt. 05 Rw.09 Desa Bektiharjo Kecamatan Semanding Kabupaten Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Perjudian (menawarkan/memberi kesempatan bermain judi)"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Donovan Akbar Kusumo Bhuwono, SH.MH",
+        "anggota": [
+          {
+            "nama": "Erslan Abdillah, SH"
+          },
+          {
+            "nama": "Kiki Yuristian, SH.MH"
+          }
+        ]
+      }
+    ],
+    "panitera": "Joko Purnomo, SH",
+    "penuntut_umum": "Ferdinan Cahyadi, SH",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tuban/txt/zaef2e1b779a0676be5a313630383137.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "503/Pid.B/2024/PN Jmr",
+    "tanggal_putusan": "11 November 2024",
+    "lokasi": "PN Jember",
+    "terdakwa": [
+      {
+        "nama": "Hendra Wijaya",
+        "umur": "35 Tahun",
+        "tempat_lahir": "Jember",
+        "tanggal_lahir": "10 Mei 1989",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Katolik",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Jember Kidul",
+          "kecamatan": "Kaliwates",
+          "kabupaten": "Jember",
+          "kota": "Jember",
+          "alamat_lengkap": "Jl. Sunan Giri 17 Rt.03 Rw.02 Kel. Jember Kidul Kec. Kaliwates Kab. Jember"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "378",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penipuan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan penipuan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 tahun"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Dina Pelita Asmara, S.H., M.H.",
+        "anggota": [
+          { "nama": "Desbertua Naibaho, S.H., M.H." },
+          { "nama": "Irwansyah, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Siti Aliyatul Mubarokatih, S.H.",
+    "penuntut_umum": "Apriani Candra Christina, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jember/txt/zaefa6447a926f4899f1313430343131.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "22/Pid.Sus/2025/PN Pct",
+    "tanggal_putusan": "04 Juni 2025",
+    "lokasi": "PN Pacitan",
+    "terdakwa": [
+      {
+        "nama": "Novin Bayu Saputra Alias Dolpin bin Wiyono",
+        "umur": "28 Tahun",
+        "tempat_lahir": "Pacitan",
+        "tanggal_lahir": "21 November 1996",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "kelurahan": "Gemaharjo",
+          "kecamatan": "Tegalombo",
+          "kabupaten": "Pacitan",
+          "kota": "Pacitan",
+          "alamat_lengkap": "Dsn. Clumpring Rt.14 Rw.05 Ds. Gemaharjo Kec. Tegalombo Kab. Pacitan"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "435",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar dan/atau persyaratan keamanan, khasiat/kemanfaatan, dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "9 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perbuatan sebagaimana",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "7 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Juanda Wijaya, S.H.",
+        "anggota": [
+          { "nama": "Desak Made Winda Riyanthi, S.H., M.H." },
+          { "nama": "I Wayan Edy Kurniawan, S.H., M.H.Li." }
+        ]
+      }
+    ],
+    "panitera": "Dedy Efendi Dwi Nuroho, S.E., S.H.",
+    "penuntut_umum": "Endang Suprapti, S.H.",
+    "penasehat_hukum": "Andri Nur Wicaksana, S.H.I., M.H.",
+    "nama_file": "data/pn-pacitan/txt/zaf04d8c08784b408ff4313130373038.txt",
+    "url": ""
+  }
+  ,
+  {
+    "nomor_perkara": "59/Pid.B/2018/PN TBN",
+    "tanggal_putusan": "19 Maret 2018",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "MUJIONO bin SUTRISNO (Alm.)",
+        "umur": "66 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "01 Juli 1951",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Sopir",
+        "alamat": {
+          "kelurahan": "Gedongombo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Link. Jarkali RT. 04 RW. 01 Kel. Gedongombo Kec. Semanding, Kab. Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303 bis",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Turut serta main judi yang diadakan ditempat yang dapat dimasuki oleh khalayak umum"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan 15 hari"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan 15 hari"
+        }
+      },
+      {
+        "nama": "GAGUK BUDIHARTO bin DASMONO",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "30 Juni 1990",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Sopir",
+        "alamat": {
+          "kelurahan": "Gedongombo",
+          "kecamatan": "Semanding",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Link. Dondong RT. 01 RW. 09 Kel. Gedongombo Kec. Semanding, Kab. Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303 bis",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Turut serta main judi yang diadakan ditempat yang dapat dimasuki oleh khalayak umum"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan 15 hari"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan 15 hari"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Fathul Mujib, S.H., M.H.",
+        "anggota": [
+          { "nama": "Carolina D.Y. Awi, S.H., M.H." },
+          { "nama": "Kiki Yuristian, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Joko Purnomo, SH",
+    "penuntut_umum": "Ery Adiwibowo, SH",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tuban/txt/zaef320a98b5302cad50313631373336.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "166/Pid.Sus/2020/PN.Trk",
+    "tanggal_putusan": "30 Desember 2020",
+    "lokasi": "PN Trenggalek",
+    "terdakwa": [
+      {
+        "nama": "Muhamad Fikril Hakim bin Almarhum Ikhwan Asrofi",
+        "umur": "32 Tahun",
+        "tempat_lahir": "Tulungagung",
+        "tanggal_lahir": "27 September 1988",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Bendijati Wetan",
+          "kecamatan": "Sumbergempol",
+          "kabupaten": "Tulungagung",
+          "kota": "Tulungagung",
+          "alamat_lengkap": "Dusun Leksono RT.02 RW.02 Desa Bendijati Wetan Kecamatan Sumbergempol Kabupaten Tulungagung"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "197",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Mengedarkan sediaan farmasi tanpa ijin edar (UU No.36/2009)"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp50.000.000 (subs. 2 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan mengedarkan sediaan farmasi tanpa ijin edar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp50.000.000 (subs. 2 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Feri Anda, S.H., M.H.",
+        "anggota": [
+          { "nama": "Hayadi, S.H., M.H." },
+          { "nama": "Abraham Amrullah, S.H., M.Hum." }
+        ]
+      }
+    ],
+    "panitera": "Fatma Rochayatun",
+    "penuntut_umum": "Ririn Susilowati, SH",
+    "penasehat_hukum": "Drs. Pujihandi, SH., MH.",
+    "nama_file": "data/pn-trenggalek/txt/zaef118ab492ac70adcc303734313330.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "69/Pid.B/2017/PN TBN",
+    "tanggal_putusan": "09 Maret 2017",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "SUMADJI bin DJAYADI",
+        "umur": "68 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "05 Februari 1949",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Petani",
+        "alamat": {
+          "kelurahan": "Sidodadi",
+          "kecamatan": "Bangilan",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Dsn.Mundri Rt.01 Rw.06 Ds. Sidodadi, Kec. Bangilan Kab. Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303 bis",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Turut serta main judi yang diadakan di tempat yang dapat dimasuki oleh khalayak umum"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Heneng Pujadi, SH., M.H.",
+        "anggota": [
+          { "nama": "Benedictus Rinanta, SH" },
+          { "nama": "Erslan Abdillah, SH" }
+        ]
+      }
+    ],
+    "panitera": "Dwi Mujianto, SH",
+    "penuntut_umum": "Ninik Indah W, SH",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tuban/txt/zaef3208629532be92bb313630313436.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "57/Pid.B/2018/PN TBN",
+    "tanggal_putusan": "16 April 2018",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "SUSIADI bin SULAIMAN",
+        "umur": "46 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "1971",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Widang",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Dsn Grenjeng Desa Sumberrejo RT 02 RW 02 Kec. Widang Kab. Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "362",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan pencurian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 4 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "CAROLINA DORCAS YULIANA AWI, S.H., M.H.",
+        "anggota": [
+          { "nama": "PERELA DE ESPERANZA, S.H." },
+          { "nama": "BENEDICTUS RINANTA, S.H." }
+        ]
+      }
+    ],
+    "panitera": "ANY RUSNIYAH, S.H.",
+    "penuntut_umum": "YUNIATI UNDARTI, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tuban/txt/zaef3208601fd2fa8316313630313432.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "174/Pid.Sus/2020/PN.Trk",
+    "tanggal_putusan": "30 Desember 2020",
+    "lokasi": "PN Trenggalek",
+    "terdakwa": [
+      {
+        "nama": "Dedy Prasetiyo bin alm Sutrisno",
+        "umur": "23 Tahun",
+        "tempat_lahir": "Trenggalek",
+        "tanggal_lahir": "25 Januari 1997",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Munjungan",
+          "kabupaten": "Trenggalek",
+          "kota": "Trenggalek",
+          "alamat_lengkap": "Dusun Gebyok RT 37 RW 10 Desa Munjungan Kecamatan Munjungan Kabupaten Trenggalek"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "197",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Mengedarkan sediaan farmasi tanpa ijin edar"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "10 bulan; denda Rp50.000.000 (subs. 2 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan mengedarkan sediaan farmasi tanpa ijin edar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "8 bulan; denda Rp50.000.000 (subs. 1 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Feri Anda, S.H., M.H.",
+        "anggota": [
+          { "nama": "Hayadi, S.H., M.H." },
+          { "nama": "Abraham Amrullah, S.H., M.Hum." }
+        ]
+      }
+    ],
+    "panitera": "Arie Syamsul Bahri, S.H.",
+    "penuntut_umum": "Ipe Wiryaningtyas, S.H.",
+    "penasehat_hukum": "Drs. Pujihandi, S.H., M.H.",
+    "nama_file": "data/pn-trenggalek/txt/zaef110bccba238ea7e2313633333034.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "82/Pid.B/2018/PN Tbn",
+    "tanggal_putusan": "19 April 2018",
+    "lokasi": "PN Tuban",
+    "terdakwa": [
+      {
+        "nama": "WIDODO bin SARJI",
+        "umur": "40 Tahun",
+        "tempat_lahir": "Tuban",
+        "tanggal_lahir": "20 April 1977",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Singgahan",
+          "kabupaten": "Tuban",
+          "kota": "Tuban",
+          "alamat_lengkap": "Dusun Brabo Desa Singgahan Kecamatan Singgahan, Kabupaten Tuban"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Perjudian (togel)"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "10 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "PERELA DE ESPERANZA, S.H.",
+        "anggota": [
+          { "nama": "CAROLINA DORCAS YULIANA AWI, S.H., M.H." },
+          { "nama": "BENEDICTUS RINANTA, S.H." }
+        ]
+      }
+    ],
+    "panitera": "SUTAMAN, S.H.",
+    "penuntut_umum": "EKA HARIADI, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-tuban/txt/zaef32085d74e7208a47313630313338.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "160/Pid.Sus/2020/PN.Trk",
+    "tanggal_putusan": "30 Nopember 2020",
+    "lokasi": "PN Trenggalek",
+    "terdakwa": [
+      {
+        "nama": "Imam Nurkholis bin Setu",
+        "umur": "23 Tahun",
+        "tempat_lahir": "Trenggalek",
+        "tanggal_lahir": "03 Juli 1997",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta (Kuli Bangunan)",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Pule",
+          "kabupaten": "Trenggalek",
+          "kota": "Trenggalek",
+          "alamat_lengkap": "Dusun Krajan RT. 06 RW.03 Desa Pule Kecamatan Pule Kabupaten Trenggalek"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "82",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Membujuk anak untuk melakukan perbuatan cabul"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "7 tahun"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan membujuk anak untuk melakukan perbuatan cabul",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "5 tahun; denda Rp60.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Deny Riswanto, S.H., M.H.",
+        "anggota": [
+          { "nama": "Feri Anda, S.H., M.H." },
+          { "nama": "Abraham Amrullah, S.H., M.Hum." }
+        ]
+      }
+    ],
+    "panitera": "Fatma Rochayatun",
+    "penuntut_umum": "Agustini, S.H.",
+    "penasehat_hukum": "Drs. Pujihandi, S.H., M.H.",
+    "nama_file": "data/pn-trenggalek/txt/zaef118c2f50acea914d303735323035.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "8/Pid.Sus/2023/PN Lmj",
+    "tanggal_putusan": "07 Februari 2023",
+    "lokasi": "PN Lumajang",
+    "terdakwa": [
+      {
+        "nama": "ERIK SUSANTO bin ABIB",
+        "umur": "36 Tahun",
+        "tempat_lahir": "Lumajang",
+        "tanggal_lahir": "01 Juli 1986",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Yosowilangun",
+          "kabupaten": "Lumajang",
+          "kota": "Lumajang",
+          "alamat_lengkap": "Dusun Madurejo RT.02 RW.03 Desa Munder Kecamatan Yosowilangun Kabupaten Lumajang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar/persyaratan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "2 tahun; denda Rp5.000.000 (subs. 1 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan mengedarkan sediaan farmasi yang tidak memenuhi standar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "2 tahun 6 bulan; denda Rp5.000.000 (subs. 1 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "BUDI PRAYITNO, S.H., M.H.",
+        "anggota": [
+          { "nama": "I GEDE ADHI GANDHA WIJAYA, S.H., M.H." },
+          { "nama": "JUSUF ALWI, S.H." }
+        ]
+      }
+    ],
+    "panitera": "SRI AGUNG NINGRUM, S.H.",
+    "penuntut_umum": "BAMBANG HERU, S.H.",
+    "penasehat_hukum": "USMAN, S.H.",
+    "nama_file": "data/pn-lumajang/txt/zaeda6e9622ec9b28d65323031343432.txt",
+    "url": ""
+  }
+,
+  {
+    "nomor_perkara": "350/Pid.B/2022/PN Jbg",
+    "tanggal_putusan": "8 September 2022",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Didik Kurniawan bin Kamid",
+        "umur": "40 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "1 Juli 1981",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Dagang",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Tembelang",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Jl. Bejo Ds. Mojokrapak RT. 03 RW. 01 Kec. Tembelang Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Perjudian (togel)"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan memberi kesempatan kepada khalayak umum untuk melakukan permainan judi",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Sudirman, S.H.",
+        "anggota": [
+          { "nama": "Bagus Sumanjaya, S.H." },
+          { "nama": "Denndy Firdiansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Rusyadi Wijaya, S.H.",
+    "penuntut_umum": "",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaed3237f5222cf49907303831323233.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "326/Pid.Sus/2022/PN Jbg",
+    "tanggal_putusan": "30 Agustus 2022",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Dedin Setiyawan alias Didin bin Suroto",
+        "umur": "28 Tahun",
+        "tempat_lahir": "Kediri",
+        "tanggal_lahir": "03 Mei 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Serabutan",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Wonosalam",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dusun Sanggar Rt. 04 Rw. 02 Desa Galengdowo Kec. Wonosalam Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "98",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Memproduksi atau mengedarkan sediaan farmasi dan/atau alat kesehatan yang tidak memenuhi standar"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 6 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan mengedarkan sediaan farmasi yang tidak memenuhi standar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Denndy Firdiansyah, S.H.",
+        "anggota": [
+          { "nama": "Muhammad Riduansyah, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Rusyadi Wijaya, S.H.",
+    "penuntut_umum": "Masusanto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaed2cc526f447628e20303934373539.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "41/Pid.Sus/2022/PN Jbg",
+    "tanggal_putusan": "11 April 2022",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Tubagus Muhammad Joddy Pramasetya bin Tubagus Muhammad Endang Lesmana",
+        "umur": "24 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "16 April 1997",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Griya Melati Blok B-1 No. 10 RT. 002 RW. 013 Ds. Bubulak Kec. Bogor Barat Kota Bogor Prov. Jawa Timur"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "310",
+            "nomor": "",
+            "ayat": "4",
+            "ke": "",
+            "jenis_peraturan": "UU No.22/2009",
+            "tindak_pidana": "mengemudikan kendaraan bermotor yang karena kelalaiannya mengakibatkan orang lain meninggal dunia dan mengakibatkan orang lain luka-luka"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "7 tahun"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan mengemudikan kendaraan bermotor yang karena kelalaiannya mengakibatkan kecelakaan lalu lintas dan mengakibatkan orang lain meninggal dunia dan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "5 tahun; denda Rp10.000.000 (subs. 2 bulan); pencabutan SIM A selama 2 tahun"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Dr. Bambang Setyawan, S.H., M.H.",
+        "anggota": [
+          { "nama": "Joni Mauluddin Saputra, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Rusyadi Wijaya, S.H.",
+    "penuntut_umum": "Adi Prasetyo, S.H., M.H.; Aldi Demas Akira, S.H.",
+    "penasehat_hukum": "Eko Wajyudi, S.H., dan rekan, Advokat",
+    "nama_file": "data/pn-jombang/txt/zaecbed6117fc152ba6b313231313536.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "339/Pid.SUS/2022/PN.Jbg",
+    "tanggal_putusan": "6 September 2022",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "SULIS SUSANTO bin KASTARI (Alm)",
+        "umur": "30 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "3 Mei 1992",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Serabutan",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Peterongan",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dsn. Ngudi RT/RW 034/009, Desa Tugusumberjo, Kecamatan Peterongan, Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU No.36/2009",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 6 bulan; denda Rp1.000.000"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan mengedarkan sediaan farmasi yang tidak memenuhi standar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "DENNDY FIRDIANSYAH, S.H.",
+        "anggota": [
+          { "nama": "LUKI EKO ANDRIANTO, S.H., M.H." },
+          { "nama": "MUHAMMAD RIDUANSYAH, S.H." }
+        ]
+      }
+    ],
+    "panitera": "H. SATIMAN, S.H.",
+    "penuntut_umum": "Anjas Mega Lestari, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaed3237fa9b921a955f303831323332.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "185/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "21 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Aris Sagita bin Karmin",
+        "umur": "28 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "14 Mei 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. Pagerongkal RT. 003 RW. 001 Ds. Pagertanjung Kec. Ploso Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      },
+      {
+        "nama": "Sholiqul Arifin bin Sakijan",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Surabaya",
+        "tanggal_lahir": "31 Agustus 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. Jatipotroyudo Ds. Jatibanjar RT. 002 RW. 001 Kec. Ploso, Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      },
+      {
+        "nama": "Solichul Arifin bin Kusto",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "19 September 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. / Ds. Banjardowo RT. 002 RW. 003 Kec. Kabuh Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      },
+      {
+        "nama": "Edi Prasetyo bin Yaseman",
+        "umur": "26 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "21 November 1994",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. Jatipotroyudo Ds. Jatibanjar RT. 002 RW. 002 Kec. Ploso Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      },
+      {
+        "nama": "Tri Prasetiya Wijaya bin Juntok",
+        "umur": "22 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "17 September 1998",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. Jatipotroyudo Ds. Jatibanjar RT. 001 RW. 001 Kec. Ploso Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      },
+      {
+        "nama": "Witriyanto bin Ngatiran",
+        "umur": "21 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "9 Januari 2000",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn. Legarang Ds. Jatibanjar RT. 001 RW. 001 Kec. Ploso Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "170",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "kekerasan terhadap orang atau barang"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan tindak pidana bersama-sama melakukan kekerasan terhadap orang yang menyebabkan luka-luka",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Karimulyatim, S.H.",
+    "penuntut_umum": "Achmad Jaya Muhidin",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf69fc18649cd8313134383433.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "67/Pid.B/2024/PN Jbg",
+    "tanggal_putusan": "7 Mei 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Muhammad Agung Fanani bin Muji Utomo",
+        "umur": "38 Tahun",
+        "tempat_lahir": "Lamongan",
+        "tanggal_lahir": "15 Januari 1994",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn tugu RT 05 RW 02, Ds Kesamben Kec Ngoro Kab Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "3,5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dengan pemberatan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan bersalah melakukan pencurian dalam keadaan memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 10 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Putu Wahyudi, S.H., M.H.",
+        "anggota": [
+          { "nama": "Bagus Sumanjaya, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Sulistyo Andhi Bawono, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbfe9860f548f77313135323137.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "198/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "15 Juli 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Moh. Dwi Septiawan bin Budairi",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Nganjuk",
+        "tanggal_lahir": "12 September 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn/Ds. Klurahan RT/RW. 03/01 Kecamatan Ngronggot, Kabupaten Nganjuk"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "480",
+            "nomor": "",
+            "ayat": "",
+            "ke": "1",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penadahan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan bersalah melakukan penadahan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan 15 hari"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Sudirman, S.H.",
+        "anggota": [
+          { "nama": "Muhammad Riduansyah, S.H." },
+          { "nama": "Ida Ayu Masyuni, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Winarsi, S.H.",
+    "penuntut_umum": "Anjas Mega Lestari, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf66421516ad27313134383337.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "199/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "23 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Muhammad Nur bin Alm M.Ali",
+        "umur": "58 Tahun",
+        "tempat_lahir": "",
+        "tanggal_lahir": "10 April 1963",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "alamat_lengkap": "Jl. Anggrek No. 81 LK. IV Rt. 000 Rw. 000 Ds. Pahlawan (tinggal di Dsn. Swaru Ds. Damarwulan Kec. Kepuh Kab. Kediri)"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4,5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dalam keadaan memberatkan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan bersalah melakukan pencurian dalam keadaan memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 4 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Fiona Irnazwen, S.H., M.H." },
+          { "nama": "Muhammad Riduansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Guntoro, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf65ab8830b80e313134383336.txt",
+    "url": ""
+	  },
+  {
+    "nomor_perkara": "206/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "2 Juli 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Mochamad Ghofar bin Pai",
+        "umur": "34 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "27 September 1986",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "kuli batu",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Kesamben",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Sapon Rt. 03 Rw. 02 Ds. Jombatan Kec. Kesamben Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian Dengan Pemberatan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 3 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian Dengan Pemberatan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        }
+      },
+      {
+        "nama": "Vilbyan Al Javari Munif bin Jumani Munif",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "23 Desember 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Kesamben",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Garu Rt. 12 Rw. 03 Ds. Podoroto Kec. Kesamben Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian Dengan Pemberatan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 3 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian Dengan Pemberatan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "M. Saifulloh, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf600941a694f5313134383237.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "207/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "12 Juli 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Mochamad Ghofar bin Pai",
+        "umur": "35 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "27 September 1986",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Kuli batu",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Kesamben",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Sapon Rt. 03 Rw. 02 Ds. Jombantan Kec. Kesamben Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "365",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dengan kekerasan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian dengan kekerasan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        }
+      },
+      {
+        "nama": "Vilbyan Al- Javari Munif bin Jumani Munif",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "23 Desember 1993",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "",
+          "kecamatan": "Kesamben",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Garu Rt. 12 Rw. 03 Ds. Podoroto Kec. Kesamben Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "365",
+            "nomor": "",
+            "ayat": "1,2",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dengan kekerasan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian dengan kekerasan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Sari Iswoyo, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf639c60009179313134383333.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "235/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "2 Juli 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Faizal Wahyu Buwono bin Agung Buwono",
+        "umur": "32 Tahun",
+        "tempat_lahir": "Denpasar",
+        "tanggal_lahir": "7 Februari 1989",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Pakunden",
+          "kecamatan": "Pesantren",
+          "kabupaten": "Kota Kediri",
+          "kota": "Kediri",
+          "alamat_lengkap": "Jl. Pakunden Gg. I no. 56 RT 4 RW 1 Ds. Pakunden Kec. Pesantren Kota Kediri"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4,5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian Dalam Keadaan Memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 2 bulan"
+        }
+      },
+      {
+        "nama": "Anggi Muhlison bin Muarifin",
+        "umur": "30 tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "12 Juli 1990",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Kaliwungu",
+          "kecamatan": "Kec. Jombang",
+          "kabupaten": "Kab. Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Jl. Halmahera no 6 RT 11 RW 4 Ds. Kaliwungu Kec. Jombang Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4,5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian Dalam Keadaan Memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 2 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Fiona Irnazwen, S.H., M.H." },
+          { "nama": "Muhammad Riduansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "H. Satiman, S.H.",
+    "penuntut_umum": "Masusanto",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0dbf5d7282fe8db1313134383232.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "208/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "19 Juli 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Adi Sucipto bin Sukar",
+        "umur": "41 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "12 Agustus 1979",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Sukorejo",
+          "kecamatan": "Perak",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dusun Sukorejo Rt.05 Rw.03 Desa Sukorejo Kec.Perak Kab.Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "3",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Pencurian Dalam Keadaan Memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "5 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Sulistyo Andhi Bawono, S.H.",
+    "penuntut_umum": "Yoga Adhyatma, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0c1809e86386add1303931383035.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "551/Pid.B/2022/PN Jbg",
+    "tanggal_putusan": "15 Desember 2022",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Budiono alias Miran bin Alm Subadi",
+        "umur": "45 tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "5 Februari 1977",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "swasta",
+        "alamat": {
+          "kelurahan": "Murukan",
+          "kecamatan": "Mojoagung",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Jl. Mangga Dsn/Ds. Murukan Rt/Rw. 005/002 Kec. Mojoagung Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "303 bis",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "2",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Perjudian (dadu)"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "6 bulan (potong tahanan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan perjudian",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "4 bulan 15 hari"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Muhammad Riduansyah, S.H.",
+        "anggota": [
+          { "nama": "Luki Eko Andrianto, S.H., M.H." },
+          { "nama": "Ida Ayu Masyuni, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Mudjiman, S.H.",
+    "penuntut_umum": "Sultoni, S.H., M.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaed80e6d54189048d9a313132303432.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "6/Pid.Sus/2023/PN Jbg",
+    "tanggal_putusan": "7 Februari 2023",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Emma Anasta Syabila binti Erik Purwanto",
+        "umur": "18 Tahun",
+        "tempat_lahir": "Mojokerto",
+        "tanggal_lahir": "28 Februari 2004",
+        "jenis_kelamin": "Perempuan",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Wiraswasta",
+        "alamat": {
+          "kelurahan": "Ngudirejo",
+          "kecamatan": "Diwek",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dusun Ngemplak Rt. 002 Rw. 005 Desa Ngudirejo Kec. Diwek Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU No.36/2009",
+            "tindak_pidana": "Mengedarkan sediaan farmasi tanpa izin"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan pengedaran sediaan farmasi yang tidak memenuhi standar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "10 bulan; denda Rp1.000.000 (subs. 2 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Luki Eko Andrianto, S.H., M.H.",
+        "anggota": [
+          { "nama": "Ida Ayu Masyuni, S.H., M.H." },
+          { "nama": "Muhammad Riduansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Witno, S.H.",
+    "penuntut_umum": "Adi Prasetyo, S.H.; Aldi Demas Akira, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaee100716e44b80b534313434313532.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "XX/Pid.Sus/2022/PN Jbg",
+    "tanggal_putusan": "8 Februari 2023",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "TERDAKWA",
+        "umur": "19 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "9 Februari 2004",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Pelajar/Mahasiswa",
+        "alamat": {
+          "kelurahan": "Pagerongkal",
+          "kecamatan": "Ploso",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dsn. Pagerongkal Rt/Rw. 004/001 Ds. Pagertanjung Kec. Ploso Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "81",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "",
+            "jenis_peraturan": "UU Perlindungan Anak",
+            "tindak_pidana": "Kekerasan terhadap anak / persetubuhan anak"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "14 tahun; denda Rp60.000.000 (subs. 6 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan persetubuhan terhadap anak",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "13 tahun; denda Rp60.000.000 (subs. 6 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Bagus Sumanjaya, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Rusyadi Wijaya, S.H.",
+    "penuntut_umum": "Supriyanto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaee1007065d51bca438313434313235.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "380/Pid.B/2023/PN Jbg",
+    "tanggal_putusan": "04 Januari 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Yoyok Arifin bin Sunari",
+        "umur": "35 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "06 Januari 1988",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "kelurahan": "Pulorejo",
+          "kecamatan": "Tembelang",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dsn.Cumpleng Rt.003 Rw.008 Ds.Pulorejo Kec.Tembelang Kab.Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "372",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penggelapan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 6 bulan"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan Tindak Pidana Penggelapan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 5 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "LUKI EKO ANDRIANTO, S.H., M.H.",
+        "anggota": [
+          { "nama": "MUHAMMAD RIDUANSYAH, S.H." },
+          { "nama": "IDA AYU MASYUNI, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "WITNO, S.H.",
+    "penuntut_umum": "ALDI DEMAS AKIRA, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaeeadd1c96da126bfd0303935383233.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "379/Pid.Sus/2023/PN Jbg",
+    "tanggal_putusan": "24 Januari 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "MOHAMAD SIROJUL MUTTAQIN bin MUSA",
+        "umur": "44 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "03 Mei 1979",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "kelurahan": "Kedungdowo",
+          "kecamatan": "Ploso",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dusun Ganggang RT 004 RW 003 Desa Kedungdowo, Kecamatan Ploso, Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "435",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU No.17/2023 Kesehatan",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar/keamanan/khasiat/mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 2 bulan; denda Rp1.000.000 (subs. 6 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan dengan sengaja mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "11 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Bagus Sumanjaya, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Mansur Efendi, S.H.",
+    "penuntut_umum": "Sultoni, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaeebf1d56d195d4a024313031323032.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "26/Pid.B/2024/PN Jbg",
+    "tanggal_putusan": "13 Maret 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "AHMAD SYARIFUDDIN alias ARIF bin BAHARUDDIN",
+        "umur": "29 Tahun",
+        "tempat_lahir": "Palembang",
+        "tanggal_lahir": "21 Maret 1994",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Tidak bekerja",
+        "alamat": {
+          "kelurahan": "Bukit Lama",
+          "kecamatan": "Ilir Barat Satu",
+          "kabupaten": "Palembang",
+          "kota": "Palembang",
+          "alamat_lengkap": "Jln. Sultan Mansyur Lr Gardu Rt.047 Rw.004 Desa Bukit lama Kec. Ilir barat satu Kota Palembang Provinsi Sumsel (domisili tuna wisma di Kab. Jombang)"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "6",
+            "nomor": "",
+            "ayat": "",
+            "ke": "a",
+            "jenis_peraturan": "UU 12/2022 TPKS",
+            "tindak_pidana": "Perbuatan seksual secara fisik yang merendahkan harkat martabat"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Terbukti melakukan perbuatan seksual secara fisik yang merendahkan harkat dan martabat (Pasal 6 huruf a UU 12/2022 TPKS)",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Denndy Firdiansyah, S.H.",
+        "anggota": [
+          { "nama": "Sudirman, S.H." },
+          { "nama": "Putu Wahyudi, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Karimulyatim, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaeee1a95ba02356811e303931393539.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "52/Pid.B/2024/PN Jbg",
+    "tanggal_putusan": "25 April 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "DWI ARIYANTO bin KARMAJI",
+        "umur": "44 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "23 Mei 1979",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "kelurahan": "Wangkalkepuh",
+          "kecamatan": "Gudo",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dsn. Kepuh RT 001 RW 001 Desa Wangkalkepuh Kecamatan Gudo Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "351",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penganiayaan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Terbukti melakukan penganiayaan (Pasal 351 ayat (1) KUHP)",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Muhammad Riduansyah, S.H.",
+        "anggota": [
+          { "nama": "Luki Eko Andrianto, S.H., M.H." },
+          { "nama": "Ida Ayu Masyuni, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Mudjiman, S.H.",
+    "penuntut_umum": "Endang Dwi Rahayu, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef05c1ade0619e9df2303734343437.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "186/Pid.Sus/2021/PN Jbg",
+    "tanggal_putusan": "23 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "JULI SANTOSO",
+        "umur": "32 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "16 Desember 1988",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Ngogri",
+          "kecamatan": "Megaluh",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dusun Pulodadi RT 03 RW 03 Desa Ngogri Kecamatan Megaluh Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "310",
+            "nomor": "",
+            "ayat": "4",
+            "ke": "",
+            "jenis_peraturan": "UU 22/2009 LLAJ",
+            "tindak_pidana": "Kelalaian mengakibatkan orang lain meninggal dunia"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        },
+        "putusan_pidana": "Kelalaiannya mengakibatkan kecelakaan lalu lintas yang menyebabkan orang lain meninggal dunia (Pasal 310 ayat (4) UU 22/2009)",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Witno, S.H.",
+    "penuntut_umum": "Galuh Mardiana, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0b812c7f55368915313531383039.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "155/Pid.Sus/2021/PN Jbg",
+    "tanggal_putusan": "2 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "ZAINAL ABIDIN bin RUMADI",
+        "umur": "27 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "1994",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Kedunglumpang",
+          "kecamatan": "Mojoagung",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dusun/Desa Kedunglumpang RT 01 RW 03 Kecamatan Mojoagung Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU 36/2009 Kesehatan",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Dengan sengaja mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "10 bulan; denda Rp1.000.000 (subs. 2 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Yunita Hendarwati, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Fiona Irnazwen, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "Karimulyatim, S.H.",
+    "penuntut_umum": "Agus Suroto, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0c0f14df11bc89af303831333538.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "103/Pid.Sus/2024/PN Jbg",
+    "tanggal_putusan": "3 Juli 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "ADI KURNIAWAN bin FANANI",
+        "umur": "18 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "7 September 2005",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Serabutan",
+        "alamat": {
+          "kelurahan": "Mayangan",
+          "kecamatan": "Jogoroto",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dusun Mayangan RT 016 RW 005 Kecamatan Jogoroto Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "435",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU 17/2023 Kesehatan",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan, khasiat atau kemanfaatan, dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 4 bulan"
+        },
+        "putusan_pidana": "Dengan sengaja mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun 2 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Putu Wahyudi, S.H., M.H.",
+        "anggota": [
+          { "nama": "Denndy Firmansyah, S.H." },
+          { "nama": "Bagus Sumanjaya, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Sulistyo Andhi Bawono, S.H.",
+    "penuntut_umum": "Sultoni, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef3ce05446a9dab6d5313131323435.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "131/Pid.B/2024/PN Jbg",
+    "tanggal_putusan": "30 Juli 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "AINUR ROHMAN alias TOBIL bin KHOIRI",
+        "umur": "37 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "17 Agustus 1986",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "kelurahan": "Pucangsimo",
+          "kecamatan": "Bandarkedungmulyo",
+          "kabupaten": "Jombang",
+          "kota": "",
+          "alamat_lengkap": "Dusun Ketir RT 001 RW 003 Desa Pucangsimo Kecamatan Bandarkedungmulyo Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "3",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dalam keadaan memberatkan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        },
+        "putusan_pidana": "Pencurian dalam keadaan memberatkan (Pasal 363 ayat (1) ke-3 KUHP)",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Putu Wahyudi, S.H., M.H.",
+        "anggota": [
+          { "nama": "Luki Eko Andrianto, S.H., M.H." },
+          { "nama": "Bagus Sumanjaya, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Mudjiman, S.H.",
+    "penuntut_umum": "Galuh Mardiana, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef4ed7cdb397a2b7b0303735373034.txt",
+    "url": ""
+  }
+
+    ,
+    {
+      "nomor_perkara": "43/Pid.B/2025/PN Jbg",
+      "tanggal_putusan": "29 April 2025",
+      "lokasi": "PN Jombang",
+      "terdakwa": [
         {
-            "nama": "xxxx xxxx bin xxxx",
-            "umur": "xx",
-            "tempat_lahir": "xxxxx",
-            "tanggal_lahir": "2 Mei 2000",
-            "jenis_kelamin": "laki-laki",
-            "kebangsaan": "Indonesia",
-            "agama": "xxxx",
-            "pekerjaan": "xxxx",
-            "alamat": {
-                "kelurahan": "xxxx",
-                "kecamatan": "xxxx",
-                "kabupaten": "xxxx",
-                "kota": "xxxx",
-                "alamat_lengkap": "xxxx"
-            },
-            "tuntutan_pidana": [
-                {
-                    "pasal": "xxx",
-                    "ayat": "x",
-                    "tindak_pidana": "xxxxx"
-                },
-                {
-                    "pasal": "xxx",
-                    "ayat": "x",
-                    "tindak_pidana": "xxxxx"
-                }
-            ],
-            "tuntutan_hukuman": {
-                "jenis": "penjara",
-                "lama": "1 tahun"
-            },
-            "putusan_pidana": "xxxxx",
-            "putusan_hukuman": {
-                "jenis": "penjara",
-                "lama": "8 bulan"
+          "nama": "Harisul Muttaqin bin M. Anwar",
+          "umur": "29 Tahun",
+          "tempat_lahir": "Nganjuk",
+          "tanggal_lahir": "18 Juni 1995",
+          "jenis_kelamin": "Laki-laki",
+          "kebangsaan": "Indonesia",
+          "agama": "Islam",
+          "pekerjaan": "Karyawan Swasta",
+          "alamat": {
+            "alamat_lengkap": "Dusun Juwet RT 002/RW 008, Desa Juwet, Kecamatan Ngronggot, Kabupaten Nganjuk"
+          },
+          "tuntutan_pidana": [
+            {
+              "pasal": "365",
+              "nomor": "",
+              "ayat": "1 dan 2",
+              "ke": "Ke-2",
+              "jenis_peraturan": "KUHP",
+              "tindak_pidana": "Pencurian dengan kekerasan"
             }
+          ],
+          "tuntutan_hukuman": {
+            "jenis": "penjara",
+            "lama": "2 tahun 6 bulan"
+          },
+          "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan pencurian dengan kekerasan",
+          "putusan_hukuman": {
+            "jenis": "penjara",
+            "lama": "2 tahun 3 bulan"
+          }
         }
-    ],
-    "hakim":[
+      ],
+      "hakim": [
         {
-            "ketua": "xxxxx",
-            "anggota" : [
-                {
-                    "nama": "xxxx"
-                },
-                {
-                    "nama": "xxxx"
-                }
-            ]
+          "ketua": "Wahyu Widodo, S.H., M.H.",
+          "anggota": [
+            { "nama": "Satrio Budiono, S.H., M.Hum." },
+            { "nama": "Iksandiaji Yuris Firmansah, S.H., M.Kn." }
+          ]
         }
+      ],
+      "panitera": "Tanti Tantrisnawati, S.H.",
+      "penuntut_umum": "Lela Tyas Eka Prihatining Cahya, S.H.",
+      "penasehat_hukum": "",
+      "nama_file": "data/pn-jombang/txt/zaf024c263a142c68c00313332323536.txt",
+    "url": ""
+  }
+  ,
+  {
+    "nomor_perkara": "56/Pid.B/2024/PN JBG",
+    "tanggal_putusan": "30 April 2024",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Alfis Prasetya bin Suwadi",
+        "umur": "28 tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "21 November 1995",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Petani / Pekebun",
+        "alamat": {
+          "alamat_lengkap": "Dsn.Pojok Kulon RT/RW 001/001 Ds. Pojok Kulon Kec.Jombang, Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4 dan 5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dalam keadaan memberatkan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        },
+        "putusan_pidana": "Pencurian dalam keadaan memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        }
+      },
+      {
+        "nama": "Surya Dewi binti Suwandi",
+        "umur": "28 tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "25 Mei 1995",
+        "jenis_kelamin": "Perempuan",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Karyawan Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dsn.Bedah RT/RW 002/001 Ds. Bedah Lawak Kecamatan Tembelang, Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "363",
+            "nomor": "",
+            "ayat": "1",
+            "ke": "4 dan 5",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Pencurian dalam keadaan memberatkan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "1 tahun"
+        },
+        "putusan_pidana": "Pencurian dalam keadaan memberatkan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "8 bulan"
+        }
+      }
     ],
-    "panitera": "xxxxx",
-    "penuntut_umum": "xxxx",
-    "nama_file": "xxxxx",
-    "url": "xxxxx"
-}
+    "hakim": [
+      {
+        "ketua": "Faisal Akbaruddin Taqwa, S.H., LL.M",
+        "anggota": [
+          { "nama": "Muhammad Riduansyah, S.H." },
+          { "nama": "Putu Wahyudi, S.H., M.H." }
+        ]
+      }
+    ],
+    "panitera": "H. Mansur Efendi, S.H.",
+    "penuntut_umum": "Wiradhyaksa Mochamad Hariadi Putra, S.H., M.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0838033ff7b2bde4313035363533.txt",
+    "url": ""
+  }
+  ,
+  {
+    "nomor_perkara": "148/Pid.Sus/2021/PN Jbg",
+    "tanggal_putusan": "15 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Surya Pratama bin Sugianto",
+        "umur": "21 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "19 Maret 2000",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Kuli Bangunan",
+        "alamat": {
+          "alamat_lengkap": "Dsn.Sukoharjo RT/RW 001/001 Ds. Penggaron Kec.Mojowarno Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 6 bulan)"
+        },
+        "putusan_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 6 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Sari Cempaka Respati, S.H., M.H.",
+        "anggota": [
+          { "nama": "Sudirman, S.H." },
+          { "nama": "Muhammad Riduansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Drs. Gatut Prakosa",
+    "penuntut_umum": "Achmad Jaya, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaef0b63ca174be6bfe2313134373439.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "141/Pid.B/2021/PN Jbg",
+    "tanggal_putusan": "24 Juni 2021",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Jafar Siddiq bin Mulyadi",
+        "umur": "30 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "27 Februari 1991",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "kelurahan": "Janti",
+          "kecamatan": "Jogoroto",
+          "kabupaten": "Jombang",
+          "kota": "Jombang",
+          "alamat_lengkap": "Dusun Janti Desa Janti Rt.05 Rw.05 Kecamatan Jogoroto, Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "372",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "KUHP",
+            "tindak_pidana": "Penggelapan"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara",
+          "lama": "3 tahun"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan penggelapan",
+        "putusan_hukuman": {
+          "jenis": "penjara",
+          "lama": "2 tahun 6 bulan"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Sari Cempaka Respati, S.H., M.H.",
+        "anggota": [
+          { "nama": "Sudirman, S.H." },
+          { "nama": "Muhammad Riduansyah, S.H." }
+        ]
+      }
+    ],
+    "panitera": "M. Syaifulloh, S.H.",
+    "penuntut_umum": "Argandi Wahyuntoro, S.H.",
+    "penasehat_hukum": "",
+
+    "nama_file": "data/pn-jombang/txt/zaef0b63dedaef568b83313134383234.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "547/Pid.Sus/2022/PN Jbg",
+    "tanggal_putusan": "9 Januari 2023",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "ANDIKA ADI PUTRA Alias BENDOT",
+        "umur": "24 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "09 November 1997",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta (Peternak ayam)",
+        "alamat": {
+          "alamat_lengkap": "Jl. Santren Rt/Rw. 019/005 , Ds. Jarak Kulon , Kec. Mojowarno, Kab. Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU No.36/2009",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun 3 bulan; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan melakukan mengedarkan sediaan farmasi tanpa izin edar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Sudirman, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Bagus Sumanjaya, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Uji Astuti, S.H., M.H.",
+    "penuntut_umum": "Sultoni, S.H.",
+    "penasehat_hukum": "",
+
+    "nama_file": "data/pn-jombang/txt/zaee1008ac2f20ceb618313435333132.txt",
+    "url": ""
+  },
+  {
+    "nomor_perkara": "600/Pid.Sus/2022/PN Jbg",
+    "tanggal_putusan": "11 Januari 2023",
+    "lokasi": "PN Jombang",
+    "terdakwa": [
+      {
+        "nama": "Ahmad Setiya Lukito bin Supii",
+        "umur": "22 Tahun",
+        "tempat_lahir": "Jombang",
+        "tanggal_lahir": "28 September 2000",
+        "jenis_kelamin": "Laki-laki",
+        "kebangsaan": "Indonesia",
+        "agama": "Islam",
+        "pekerjaan": "Swasta",
+        "alamat": {
+          "alamat_lengkap": "Dusun Jatipandak RT/RW 021/005 Desa Jatiduwur, Kecamatan Kesamben, Kabupaten Jombang"
+        },
+        "tuntutan_pidana": [
+          {
+            "pasal": "196",
+            "nomor": "",
+            "ayat": "",
+            "ke": "",
+            "jenis_peraturan": "UU No.36/2009",
+            "tindak_pidana": "Mengedarkan sediaan farmasi yang tidak memenuhi standar keamanan dan mutu"
+          }
+        ],
+        "tuntutan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        },
+        "putusan_pidana": "Terbukti secara sah dan meyakinkan mengedarkan sediaan farmasi yang tidak memenuhi standar",
+        "putusan_hukuman": {
+          "jenis": "penjara dan denda",
+          "lama": "1 tahun; denda Rp1.000.000 (subs. 3 bulan)"
+        }
+      }
+    ],
+    "hakim": [
+      {
+        "ketua": "Bagus Sumanjaya, S.H.",
+        "anggota": [
+          { "nama": "Denndy Firdiansyah, S.H." },
+          { "nama": "Sudirman, S.H." }
+        ]
+      }
+    ],
+    "panitera": "Drs. Gatut Prakosa",
+    "penuntut_umum": "Anjas Mega Lestari, S.H.",
+    "penasehat_hukum": "",
+    "nama_file": "data/pn-jombang/txt/zaee10089e18681a81d5313435323439.txt",
+    "url": ""
+  }
+]
+
+
+
+
+
